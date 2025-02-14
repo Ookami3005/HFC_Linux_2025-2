@@ -1,7 +1,9 @@
 # Cheatsheet Linux
+
 <p  align="center">
   <img  width="200"  src="https://media.licdn.com/dms/image/v2/D4E0BAQErtaHuzN8ehw/company-logo_200_200/company-logo_200_200/0/1719282098472?e=2147483647&v=beta&t=RXd3JJN8OVl21DW-MFoiXMUfpUsX18inBRQ7MknrthY"  alt="">
 </p>
+
 ## Codificaciones y compresiones
 ### Codificaciones
 
