@@ -2,6 +2,8 @@
 
 Repositorio oficial de material utilizado durante el curso de *Sistemas UNIX* impartido por ***Hackers Fight Club*** a los aspirantes de la generación 2025-2.
 
+***Cheatsheet***: [Aquí](./Cheatsheet.md)
+
 ### Presentaciones
 
 - [Día 1](./presentaciones/HFC_UNIX_1.pdf) : Introducción, Historia, Distros, comandos básicos e instalaciones.
